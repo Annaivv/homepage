@@ -266,3 +266,33 @@ body {
 .additional-info__languages-item {
   color: var(--secondary-text-color);
 }
+
+/* Core Strengths */
+.additional-info__strengths {
+  margin-bottom: 20px;
+}
+
+.additional-info__strengths-header {
+  color: var(--secondary-text-color);
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.additional-info__strengths li {
+  color: var(--secondary-text-color);
+}
+
+/* Beyond coding */
+.additional-info__beyond {
+  margin-bottom: 20px;
+}
+
+.additional-info__beyond-header {
+  color: var(--secondary-text-color);
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.additional-info__beyond p {
+  color: var(--secondary-text-color);
+}
